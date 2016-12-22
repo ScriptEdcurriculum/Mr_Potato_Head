@@ -29,7 +29,9 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image {
+  top: 101px; left: 58px;
+}
 
 
 
@@ -49,7 +51,9 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image {
+  top: 101px; left: 113px;
+}
 
 
 
