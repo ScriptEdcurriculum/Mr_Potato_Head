@@ -59,7 +59,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image{
+  top: 20px; left: 100px;
+}
 
 
 
@@ -69,7 +71,9 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image{
+  top: 200px ; left: 85px ;
+}
 
 
 
