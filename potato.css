@@ -41,14 +41,13 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
-
-
-
+#mouth_image {
+  top: 220px; left: 120px;
+}
 /* Insert CSS for nose below this line*/
-
-
-
+#nose_image {
+  top: 115px; left: 132px;
+}
 
 /* Insert CSS for eyebrows below this line*/
 #eyebrows_image {
@@ -71,7 +70,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image{
+  top: 20px; left: 100px;
+}
 
 
 
@@ -81,12 +82,17 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image{
+  top: 200px ; left: 85px ;
+}
 
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:299px;
+  left:47px;
+}
 
 
 
