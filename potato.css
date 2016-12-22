@@ -41,14 +41,13 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
-
-
-
+#mouth_image {
+  top: 220px; left: 120px;
+}
 /* Insert CSS for nose below this line*/
-
-
-
+#nose_image {
+  top: 115px; left: 132px;
+}
 
 /* Insert CSS for eyebrows below this line*/
 #eyebrows_image {
