@@ -29,7 +29,9 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image {
+  top: 101px; left: 58px;
+}
 
 
 
@@ -48,7 +50,9 @@ h1 {
 }
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image {
+  top: 101px; left: 113px;
+}
 
 
 
@@ -58,7 +62,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image{
+  top: 20px; left: 100px;
+}
 
 
 
@@ -68,12 +74,17 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image{
+  top: 200px ; left: 85px ;
+}
 
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:299px;
+  left:47px;
+}
 
 
 
