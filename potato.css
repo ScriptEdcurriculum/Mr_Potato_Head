@@ -22,7 +22,9 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
-
+#eyes_image { 
+  top: 13%; left: 35%; 
+}
 
 
 
