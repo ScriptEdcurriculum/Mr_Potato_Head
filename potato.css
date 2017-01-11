@@ -10,16 +10,16 @@ h1 {
   border: 2px solid black;
   margin-left: auto;
   margin-right: auto;
-  background-color: white;
+  background-color: yellow;
 }
 
-#potato img {
+#potato img {  
   position: absolute;
 }
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 30px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
 #eyes_image { 
@@ -44,9 +44,6 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
-
-
 /* Insert CSS for nose below this line*/
 #nose_image { 
   margin-top: 120px;
@@ -59,8 +56,11 @@ h1 {
   
 }
 
+#glasses_image {
+ top: 60px; left: 100px;
+}
 
-/* Insert CSS for glasses below this line*/
+  
 
 
 
