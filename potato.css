@@ -13,7 +13,7 @@ h1 {
   background-color: white;
 }
 
-#potato img {
+img {
   position: absolute;
 }
 
@@ -22,17 +22,36 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
+#moustache_image {
+  top:150px;
+  left:90px;
+}
 
+#arms_image{
+  top: 120px;
+  left:10px;
+}
+
+#eyebrows_image {
+  top: 50px;
+  right:122px;
+}
 
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image {
+  top: 110px;
+  left: 58px;
+}
 
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 110px;
+  left: 130px;
+}
 
 
 
@@ -72,7 +91,10 @@ h1 {
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image {
+  top:295px;
+  left:45px;
+}
 
 
 
