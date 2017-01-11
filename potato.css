@@ -45,7 +45,6 @@ h1 {
 
 
 
-
 /* Insert CSS for nose below this line*/
 
 
@@ -80,7 +79,10 @@ h1 {
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top: 60%;
+  left: 13%;
+}
 
 
 
