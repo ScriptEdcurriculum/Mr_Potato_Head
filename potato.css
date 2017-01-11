@@ -27,7 +27,12 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  width: 200px; 
+  margin-top: 70px;
+  margin-left: 87px;
+  
+}
 
 
 
@@ -37,7 +42,6 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
 
 
 
@@ -69,12 +73,18 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image{
+  margin-top: 160px;
+  margin-left: 92px;
+}
 
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top: 60%;
+  left: 13%;
+}
 
 
 
