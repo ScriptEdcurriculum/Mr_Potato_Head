@@ -22,12 +22,19 @@ h1 {
   top: 30px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
-
+#eyes_image { 
+  top: 13%; left: 35%; 
+}
 
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  width: 200px; 
+  margin-top: 70px;
+  margin-left: 87px;
+  
+}
 
 
 
@@ -37,17 +44,17 @@ h1 {
 
 
 /* Insert CSS for mouth below this line*/
-
-
-
-
-
-
-
-
-
+/* Insert CSS for nose below this line*/
+#nose_image { 
+  margin-top: 120px;
+  margin-left: 130px;
+}
 
 /* Insert CSS for eyebrows below this line*/
+#eyebrows_image{ 
+  top: 102px; left: 109px;
+  
+}
 
 #glasses_image {
  top: 60px; left: 100px;
@@ -59,7 +66,13 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image{
+  margin-top:.5%;
+   margin-right:20%;
+   margin-left: 20%;
+  
+   
+}
 
 
 
@@ -69,12 +82,18 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image{
+  margin-top: 160px;
+  margin-left: 92px;
+}
 
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top: 60%;
+  left: 13%;
+}
 
 
 
