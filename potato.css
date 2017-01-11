@@ -67,7 +67,10 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache{
+  margin-top: 50%;
+  margin-left: 50%;
+}
 
 
 
