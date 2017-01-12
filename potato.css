@@ -27,7 +27,9 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  top: 70px; left: 60px;
+}
 
 
 
