@@ -23,21 +23,29 @@ h1 {
 }
 /* Insert CSS for arms below this line*/
 
-
+#arms_image{
+  top:160px; left: 30px;
+}
 
 
 /* Insert CSS for ears below this line*/
-
+#ears_image{
+  top: 70px; left: 60px;
+}
 
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{
+  top: 110px; left: 132px;
+}
 
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {
+  top: 190px; left: 120px;
+}
 
 
 
@@ -49,6 +57,11 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
+#eyebrows_image
+{
+  top: 80px;
+  left: 113px;
+}
 
 
 
@@ -69,7 +82,8 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
+#moustache_image { top: 200px; left: 90px;
+}
 
 
 
