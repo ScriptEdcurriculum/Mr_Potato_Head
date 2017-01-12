@@ -53,6 +53,11 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
+#eyebrows_image
+{
+  top: 80px;
+  left: 113px;
+}
 
 
 
