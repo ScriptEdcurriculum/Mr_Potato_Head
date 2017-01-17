@@ -30,7 +30,13 @@ h1 {
   
 }
 
-
+#ears_image{
+    /*position: absolute;*/
+    
+  margin-top: 50px; /* ADDED */
+  margin-left: 50px; /* ADDED */
+  
+}
 
 /* Insert CSS for ears below this line*/
 
