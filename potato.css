@@ -78,8 +78,9 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 #moustache_image {
-  top: 150px;
-  left: 90px;
+  top: 165px;
+  left: 85px;
+  transform: rotate(180deg);
   
 }
 
