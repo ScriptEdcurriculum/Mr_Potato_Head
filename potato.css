@@ -1,17 +1,20 @@
 h1 {
   text-align: center;
+  color:hotpink;
+  font-family: 'Sansita One', cursive;
 }
-
 
 #potato {
   position: relative;
   width: 367px;
   height: 500px;
-  border: 2px solid black;
+  border: 3px inset hotpink;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
 }
+#potato:hover{box-shadow: 0px 0px 100px hotpink;
+color:hotpink;}
 
 #potato img {
   position: absolute;
@@ -22,37 +25,75 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
+
 #arms_image{
 top: 175px; left:25px;
+}
+
+
+#hatflower{ height:100px ;
+            width:100px ;
+            left:175px;
+          ;}
+
 /* Insert CSS for ears below this line*/
 
+#arms_image {
+  top: 178px; left: 25px;
+}
 
+#hat_image{
+   height:100px;
+   width:200px;
+   left:68;
+}
+
+
+
+/* Insert CSS for ears below this line*/
+#ears_image {
+  top: 100px;
+  left: 59px;
+  
+}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{ 
+  height: 100px; width: 100px; right:130px;
+  top:75px }
 
 
 
 /* Insert CSS for mouth below this line*/
-
+#mouth_image {top:185px;
+              left:120px;
+}
 
 
 
 /* Insert CSS for nose below this line*/
+#nose_image {
+  top: 120px; 
+  left: 130px;
+  
+}
 
 
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image {
+  top: 70px; left: 112px;
+}
 
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
+#glasses_image{
+  position:relative;
+  margin:100px;
+}
 
 /* Insert CSS for hat below this line*/
 
@@ -66,12 +107,18 @@ top: 175px; left:25px;
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  left: 94px;
+  top:149px;
+}
 
 
 /* Insert CSS for shoes below this line*/
 
-
+#shoes_image{
+  top: 300px; 
+  left:48px;
+}
 
 
 /* Insert CSS for cane below this line*/
