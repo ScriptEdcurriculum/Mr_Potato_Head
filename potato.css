@@ -66,7 +66,10 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  left: 94px;
+  top:149px;
+}
 
 
 /* Insert CSS for shoes below this line*/
