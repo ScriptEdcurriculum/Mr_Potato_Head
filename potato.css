@@ -42,7 +42,9 @@ color:hotpink;}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{ 
+  height: 100px; width: 100px; right:130px;
+  top:75px }
 
 
 
