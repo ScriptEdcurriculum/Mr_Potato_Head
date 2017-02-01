@@ -19,20 +19,22 @@ h1 {
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 28px; left: 68px;
 }
 /* Insert CSS for arms below this line*/
-
-
-
+#arms_image {
+  top: 150px; left: 20px;
+}
 
 /* Insert CSS for ears below this line*/
-
-
+#nose_image {
+  top: 150px; right: 137px;
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  top: 80px; left: 130px; 
+}
 
 
 
@@ -57,6 +59,9 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
+#hat_image {
+  top: 0px;left: 101px;
+}
 
 
 
@@ -72,7 +77,10 @@ h1 {
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:295px;        
+  left: 45px;
+}
 
 
 
