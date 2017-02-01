@@ -25,9 +25,11 @@ h1 {
 
 
 /* Insert CSS for ears below this line*/
-
-
-
+#ears_image {
+  top: 100px;
+  left: 59px;
+  
+}
 
 /* Insert CSS for eyes below this line*/
 
