@@ -32,7 +32,11 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  width:150px;
+  top: 100px;
+  left: 110px;
+}
 
 
 
@@ -47,16 +51,33 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image 
+{ 
+  top: 60px; left: 109px;
+  
+}
 
 
 
 /* Insert CSS for glasses below this line*/
+#glasses_image{
+  
+  top:60px; left: 101px;
+}
+
+
+
+/* Insert CSS for stunner shades below this line*/
 
 
 
 
 /* Insert CSS for hat below this line*/
+
+
+
+
+/* Insert CSS for baseball cap below this line*/
 
 
 
@@ -67,8 +88,12 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
-
+#moustache_image {
+  top: 165px;
+  left: 85px;
+  transform: rotate(180deg);
+  
+}
 
 
 /* Insert CSS for shoes below this line*/
@@ -81,7 +106,12 @@ h1 {
 
 
 
-/* Insert CSS for earrings below this line*/
+/* Insert CSS for left earring below this line*/
+
+
+
+
+/* Insert CSS for right earring below this line*/
 
 
 
