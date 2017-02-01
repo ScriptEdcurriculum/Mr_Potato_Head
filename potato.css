@@ -77,7 +77,10 @@ h1 {
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:295px;        
+  left: 45px;
+}
 
 
 
