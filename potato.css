@@ -1,17 +1,20 @@
 h1 {
   text-align: center;
+  color:hotpink;
+  font-family: 'Sansita One', cursive;
 }
-
 
 #potato {
   position: relative;
   width: 367px;
   height: 500px;
-  border: 2px solid black;
+  border: 3px inset hotpink;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
 }
+#potato:hover{box-shadow: 0px 0px 100px hotpink;
+color:hotpink;}
 
 #potato img {
   position: absolute;
@@ -22,10 +25,14 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
+#hat_image{
+   height:100px;
+   width:200px;
+   left:68;
+}
 
 
 /* Insert CSS for ears below this line*/
-
 
 
 
@@ -42,6 +49,11 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
+#nose_image {
+  top: 120px; 
+  left: 130px;
+  
+}
 
 
 
@@ -52,9 +64,10 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
+#glasses_image{
+  position:relative;
+  margin:100px;
+}
 
 /* Insert CSS for hat below this line*/
 
@@ -68,12 +81,18 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  left: 94px;
+  top:149px;
+}
 
 
 /* Insert CSS for shoes below this line*/
 
-
+#shoes_image{
+  top: 300px; 
+  left:48px;
+}
 
 
 /* Insert CSS for cane below this line*/
