@@ -26,11 +26,16 @@ color:hotpink;}
 }
 /* Insert CSS for arms below this line*/
 
+#arms_image{
+top: 175px; left:25px;
+}
+
 
 #hatflower{ height:100px ;
             width:100px ;
             left:175px;
           ;}
+
 /* Insert CSS for ears below this line*/
 
 #arms_image {
