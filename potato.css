@@ -32,7 +32,11 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image {
+  width:150px;
+  top: 100px;
+  left: 110px;
+}
 
 
 
@@ -56,7 +60,10 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
+#glasses_image{
+  
+  top:60px; left: 101px;
+}
 
 
 
@@ -81,8 +88,12 @@ h1 {
 
 
 /* Insert CSS for moustache below this line*/
-
-
+#moustache_image {
+  top: 165px;
+  left: 85px;
+  transform: rotate(180deg);
+  
+}
 
 
 /* Insert CSS for shoes below this line*/
