@@ -1,17 +1,20 @@
 h1 {
   text-align: center;
+  color:hotpink;
+  font-family: 'Sansita One', cursive;
 }
-
 
 #potato {
   position: relative;
   width: 367px;
   height: 500px;
-  border: 2px solid black;
+  border: 3px inset hotpink;
   margin-left: auto;
   margin-right: auto;
   background-color: white;
 }
+#potato:hover{box-shadow: 0px 0px 100px hotpink;
+color:hotpink;}
 
 #potato img {
   position: absolute;
@@ -49,9 +52,10 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
-
-
+#glasses_image{
+  position:relative;
+  margin:100px;
+}
 
 /* Insert CSS for hat below this line*/
 
