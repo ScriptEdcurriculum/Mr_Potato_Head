@@ -22,8 +22,14 @@ h1 {
   top: 28px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
+
 #arms_image{
   bottom:202px; right:27px;
+}
+
+
+#hat_image {
+  top: 10px; right:95px;
 }
 
 
@@ -34,6 +40,10 @@ h1 {
 
 
 /* Insert CSS for eyes below this line*/
+#eyes_image{
+  top:100px;
+  right:142px;
+}
 
 
 
@@ -54,7 +64,10 @@ h1 {
 
 
 /* Insert CSS for glasses below this line*/
-
+#glasses_image{
+  top:85px;
+  right:111px;
+}
 
 
 
@@ -70,11 +83,17 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  top:120px;
+  left:90px;
+}
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image {
+  top: 301px;
+  left: 47px;
+}
 
 
 
