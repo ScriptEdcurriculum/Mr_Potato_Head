@@ -42,7 +42,10 @@ h1 {
 
 
 /* Insert CSS for nose below this line*/
-
+#nose_image{
+  top: 150px;
+  left: 135px
+}
 
 
 
