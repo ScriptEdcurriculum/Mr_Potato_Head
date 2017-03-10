@@ -19,20 +19,29 @@ h1 {
 
 /* Insert CSS for body below this line*/
 #body { 
-  top: 28px; left: 68px; 
+  top: 48px; left: 68px; 
 }
 /* Insert CSS for arms below this line*/
 
-
-
+#arms_image {
+  top: 200px; left: 24px;
+}
 
 /* Insert CSS for ears below this line*/
 
+#hat_image {
+  top: 2px; left: 100px;
+}
 
+#ears_image {
+  top: 105px; left:56px;
+}
 
 
 /* Insert CSS for eyes below this line*/
-
+#eyes_image{
+ top: 88px; left: 130px;
+}
 
 
 
@@ -47,17 +56,24 @@ h1 {
 
 
 /* Insert CSS for eyebrows below this line*/
-
+#eyebrows_image{
+  top:81px; left:111px;
+}
 
 
 
 /* Insert CSS for glasses below this line*/
+#glasses_image {
+  top: 123px; left: 102px;
+}
 
 
 
 
 /* Insert CSS for hat below this line*/
-
+#nose_image{
+  top:180px;left: 130px;
+}
 
 
 
@@ -68,11 +84,17 @@ h1 {
 
 /* Insert CSS for moustache below this line*/
 
-
+#moustache_image {
+  top: 190px; left: 93px; 
+     transform: rotate(-3deg);
+}
 
 
 /* Insert CSS for shoes below this line*/
-
+#shoes_image{
+  top:330px;left: 150px;
+  height:20px;
+}
 
 
 
@@ -82,7 +104,10 @@ h1 {
 
 
 /* Insert CSS for earrings below this line*/
-
+#earrings {
+  width:200px;
+  height:500px;
+}
 
 
 
@@ -92,7 +117,12 @@ h1 {
 
 
 /* Insert CSS for hatflower below this line*/
-
+#hatflower {
+  width: 70px;
+  height: 70px;
+  left: 110px;
+  top: 5px;
+}
 
 
 
